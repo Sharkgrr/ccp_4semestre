@@ -11,8 +11,7 @@ public class Empregado {
             this.bonus = bonus;
             this.comissao = comissao;
         }
-    }
-
+        
     public double getBonus() {
         return bonus;
     }
